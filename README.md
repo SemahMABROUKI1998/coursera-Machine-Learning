@@ -15,12 +15,12 @@ Types of machine learning algorithm
 	-Anomaly detection
 *Unsupervised Learning: Algorithm used is
 	-K_means algorithm
-Evaluation of the machine learning 
+Evaluation of the machine learning:
 	-Analysis error
 	-Overfitting and underfitting problems
 	-Regularization
 	-PCA
-Machine Learning applications
+Machine Learning applications:
 	-Online learning 
 	-Photo OCR
 
